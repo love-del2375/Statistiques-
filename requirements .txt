@@ -1,0 +1,5 @@
+﻿flask
+flask_sqlalchemy
+plotly
+Pandas 
+Numpy
