@@ -1,0 +1,6 @@
+﻿flask
+flask_sqlalchemy
+plotly
+pandas
+numpy
+gunicorn
